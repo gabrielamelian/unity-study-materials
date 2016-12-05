@@ -13,7 +13,7 @@
 
 + [Manual](https://docs.unity3d.com/Manual/index.html)
    
-   Here you will find the concpets that the API uses to manage the classes. In general is more broad and easier to understand
+   Here you will find the concepts that the API uses to manage the classes. In general is more broad and easier to understand
 
 
 ### Unity Youtube channel
