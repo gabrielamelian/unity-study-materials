@@ -9,7 +9,7 @@
 
 + [Main scripting reference page](https://docs.unity3d.com/ScriptReference/index.html)
 
-...Remember that you can choose the scripting language at the top of the screen from JS or C#
+   Remember that you can choose the scripting language at the top of the screen from JS or C#
 
 
 ## Unity Youtube channel
