@@ -33,3 +33,12 @@ If you have access to a Wellington Library card, you can get all the online cour
 Login using the Library card [here](https://www.lynda.com/portal/sip?org=wcl.govt.nz)
 
 + [Unity tutorials and courses on Lynda.com](https://www.lynda.com/Unity-training-tutorials/1242-0.html?category=unity_2034)
+
+
+## Asset Store
+
+*Because why bother with hours and hours of 3D modelling when you can pay a few bucks for amazing art?*
+Not only has paid assets, you can also get many for free.
+The even cooler thing is that you can use them in your comercial projects without paying extra royalties.
+
++ [Asset Store](https://www.assetstore.unity3d.com/en/)
