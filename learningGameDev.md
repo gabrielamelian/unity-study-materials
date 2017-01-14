@@ -8,4 +8,4 @@ Game dev news
 
 ## Cool resources for VR in Unity
 
-* Google Cardboard API []
+* Google Cardboard API [https://developers.google.com/vr/unity/?hl=en]
