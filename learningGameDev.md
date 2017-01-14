@@ -5,3 +5,7 @@ Page with lots of resources for indie devs
 
 * Gamasutra [http://www.gamasutra.com/]
 Game dev news
+
+## Cool resources for VR in Unity
+
+* Google Cardboard API []
