@@ -14,7 +14,7 @@
    Remember that you can choose the scripting language at the top of the screen from JS or C#
 
 + [Manual](https://docs.unity3d.com/Manual/index.html)
-   
+
    Here you will find the concepts that the API uses to manage the classes. In general is more broad and easier to understand
 
 
@@ -42,3 +42,9 @@ Not only has paid assets, you can also get many for free.
 The even cooler thing is that you can use them in your comercial projects without paying extra royalties.
 
 + [Asset Store](https://www.assetstore.unity3d.com/en/)
+
+## Unity Version Control
+
+I found that tracking projects and collaborating in Unity can be full of surprises and complications. I will add interesting tutorials to work with different Version Control systems. The most popular VC used in the industry are SVN and Perforce, however Git can also be used with a few tweaks.
+
++ [The best article about using Git with Unity](http://www.gamasutra.com/blogs/TimPettersen/20161206/286981/The_complete_guide_to_Unity__Git.php)
