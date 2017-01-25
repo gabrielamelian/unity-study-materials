@@ -6,6 +6,9 @@ Page with lots of resources for indie devs
 * [Gamasutra](http://www.gamasutra.com/)
 Game dev news
 
+* [Game programming patterns](http://gameprogrammingpatterns.com/)
+This is a really cool book that explains algorithms for games
+
 * [New Zealand Game Development Asociation](http://nzgda.com/)
 Game Devs NZ
 
