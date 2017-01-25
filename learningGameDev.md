@@ -15,3 +15,8 @@ Game Dev page for AUS and NZ
 ## Cool resources for VR in Unity
 
 * [Google Cardboard API](https://developers.google.com/vr/unity/?hl=en)
+
+## Distribution channels for games
+
+* [Indie Game Stand](https://indiegamestand.com/)
+An alternative for steam that is exclusively for Indie games
