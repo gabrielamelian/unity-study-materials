@@ -48,3 +48,7 @@ The even cooler thing is that you can use them in your comercial projects withou
 I found that tracking projects and collaborating in Unity can be full of surprises and complications. I will add interesting tutorials to work with different Version Control systems. The most popular VC used in the industry are SVN and Perforce, however Git can also be used with a few tweaks.
 
 + [The best article about using Git with Unity](http://www.gamasutra.com/blogs/TimPettersen/20161206/286981/The_complete_guide_to_Unity__Git.php)
+
+## Scripting tips
+
++ [Move an object between two places using Lerp](https://chicounity3d.wordpress.com/2014/05/23/how-to-lerp-like-a-pro/) and [how to use Lerp correctly](http://www.blueraja.com/blog/404/how-to-use-unity-3ds-linear-interpolation-vector3-lerp-correctly)
